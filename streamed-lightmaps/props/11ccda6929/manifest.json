@@ -1,0 +1,88 @@
+{
+    "group": "Props",
+    "guid": "4c9ad4b79d845a14a812b604db703cf7",
+    "version": "11ccda6929",
+    "created": "2026-10-27T16:33:01.8631889Z",
+    "bakeWidth": 4096,
+    "bakeHeight": 4096,
+    "normalWidth": 1024,
+    "normalHeight": 1024,
+    "width": 4096,
+    "height": 4096,
+    "dirWidth": 2048,
+    "dirHeight": 2048,
+    "overkillWidth": 0,
+    "overkillHeight": 0,
+    "tileSize": 2048,
+    "range": 16.0,
+    "maxValue": 9.3125,
+    "totalBytes": 24017211,
+    "shippedHash": "6b146f1c8876b8b8e17e2b82fd2b9795",
+    "tiles": [
+        {
+            "file": "lm_0_0.png",
+            "kind": 0,
+            "x": 0,
+            "y": 0,
+            "rect": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.5,
+                "w": 0.5
+            },
+            "bytes": 4040401
+        },
+        {
+            "file": "lm_1_0.png",
+            "kind": 0,
+            "x": 1,
+            "y": 0,
+            "rect": {
+                "x": 0.5,
+                "y": 0.0,
+                "z": 1.0,
+                "w": 0.5
+            },
+            "bytes": 4220230
+        },
+        {
+            "file": "lm_0_1.png",
+            "kind": 0,
+            "x": 0,
+            "y": 1,
+            "rect": {
+                "x": 0.0,
+                "y": 0.5,
+                "z": 0.5,
+                "w": 1.0
+            },
+            "bytes": 5800508
+        },
+        {
+            "file": "lm_1_1.png",
+            "kind": 0,
+            "x": 1,
+            "y": 1,
+            "rect": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 1.0,
+                "w": 1.0
+            },
+            "bytes": 6235383
+        },
+        {
+            "file": "dir_0_0.png",
+            "kind": 1,
+            "x": 0,
+            "y": 0,
+            "rect": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": 1.0
+            },
+            "bytes": 3720689
+        }
+    ]
+}

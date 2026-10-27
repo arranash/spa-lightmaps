@@ -1,0 +1,101 @@
+{
+    "group": "Subsurface",
+    "guid": "cf545b29de1a05e48b04e7a35ed2de97",
+    "version": "6ed23d970c",
+    "created": "2026-10-25T16:01:30.5453734Z",
+    "bakeWidth": 4096,
+    "bakeHeight": 4096,
+    "normalWidth": 512,
+    "normalHeight": 512,
+    "width": 2048,
+    "height": 2048,
+    "dirWidth": 1024,
+    "dirHeight": 1024,
+    "overkillWidth": 4096,
+    "overkillHeight": 4096,
+    "tileSize": 2048,
+    "range": 4.0,
+    "maxValue": 2.65625,
+    "totalBytes": 27292396,
+    "shippedHash": "be127c152dcc6f10ef12b629bef61c40",
+    "tiles": [
+        {
+            "file": "lm_0_0.png",
+            "kind": 0,
+            "x": 0,
+            "y": 0,
+            "rect": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": 1.0
+            },
+            "bytes": 6342519
+        },
+        {
+            "file": "dir_0_0.png",
+            "kind": 1,
+            "x": 0,
+            "y": 0,
+            "rect": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": 1.0
+            },
+            "bytes": 1102498
+        },
+        {
+            "file": "overkill_0_0.png",
+            "kind": 2,
+            "x": 0,
+            "y": 0,
+            "rect": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.5,
+                "w": 0.5
+            },
+            "bytes": 5355899
+        },
+        {
+            "file": "overkill_1_0.png",
+            "kind": 2,
+            "x": 1,
+            "y": 0,
+            "rect": {
+                "x": 0.5,
+                "y": 0.0,
+                "z": 1.0,
+                "w": 0.5
+            },
+            "bytes": 5239814
+        },
+        {
+            "file": "overkill_0_1.png",
+            "kind": 2,
+            "x": 0,
+            "y": 1,
+            "rect": {
+                "x": 0.0,
+                "y": 0.5,
+                "z": 0.5,
+                "w": 1.0
+            },
+            "bytes": 4564111
+        },
+        {
+            "file": "overkill_1_1.png",
+            "kind": 2,
+            "x": 1,
+            "y": 1,
+            "rect": {
+                "x": 0.5,
+                "y": 0.5,
+                "z": 1.0,
+                "w": 1.0
+            },
+            "bytes": 4687555
+        }
+    ]
+}

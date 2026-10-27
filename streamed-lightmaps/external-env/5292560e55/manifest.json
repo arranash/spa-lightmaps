@@ -1,0 +1,49 @@
+{
+    "group": "External Env",
+    "guid": "13cdd3178b073cb469da5c10020d7b3c",
+    "version": "5292560e55",
+    "created": "2026-10-25T16:00:11.0805650Z",
+    "bakeWidth": 2048,
+    "bakeHeight": 2048,
+    "normalWidth": 512,
+    "normalHeight": 512,
+    "width": 2048,
+    "height": 2048,
+    "dirWidth": 1024,
+    "dirHeight": 1024,
+    "overkillWidth": 0,
+    "overkillHeight": 0,
+    "tileSize": 2048,
+    "range": 16.0,
+    "maxValue": 10.625,
+    "totalBytes": 6976359,
+    "shippedHash": "53eedbb5f52d9533e591f063ecb95a85",
+    "tiles": [
+        {
+            "file": "lm_0_0.png",
+            "kind": 0,
+            "x": 0,
+            "y": 0,
+            "rect": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": 1.0
+            },
+            "bytes": 5826820
+        },
+        {
+            "file": "dir_0_0.png",
+            "kind": 1,
+            "x": 0,
+            "y": 0,
+            "rect": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 1.0,
+                "w": 1.0
+            },
+            "bytes": 1149539
+        }
+    ]
+}

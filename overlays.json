@@ -1,0 +1,24 @@
+{
+    "entries": [
+        {
+            "name": "Building",
+            "stats": "0e92d326a473e9a7ccd1d003672ebd0c-149-23911a1e|149|37712|316975|0.7906127"
+        },
+        {
+            "name": "External Env",
+            "stats": "514d61e3e6d5e7d797554ff8c15f47db-19-44c8aa0f|19|201|76753|0.8001938"
+        },
+        {
+            "name": "Foliage",
+            "stats": "46f9489e88bae6baadd4685dc433adee-272-ecf18a7c|272|118864|1040400|0.7691364"
+        },
+        {
+            "name": "Props",
+            "stats": "79d5f87d8a186487114e21d87eb9c526-60-f5aef127|60|1848|45363|0.755423546"
+        },
+        {
+            "name": "Subsurface",
+            "stats": "4af004ed3ca4a1878f37562737dbfdab-3-017043a6|3|572|100864|0.5220337"
+        }
+    ]
+}
